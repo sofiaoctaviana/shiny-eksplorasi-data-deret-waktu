@@ -9,7 +9,7 @@ Tim Member:
 ```
 
 ## :bookmark_tabs: Menu
-- [Penjelasan Analisis Deret Waktu]
+- [Penjelasan Analisis Deret Waktu] (## Penjelasan Analisis Deret Waktu)
 - [Plot Data Deret Waktu]
 
 ## Penjelasan Analisis Deret Waktu
