@@ -9,8 +9,8 @@ Tim Member:
 ```
 
 ## :bookmark_tabs: Menu
-- [Penjelasan Analisis Deret Waktu] (## Penjelasan Analisis Deret Waktu)
+- [Penjelasan Analisis Deret Waktu](#scroll_Penjelasan-Analisis-Deret-Waktu)
 - [Plot Data Deret Waktu]
 
-## Penjelasan Analisis Deret Waktu
+## :scroll: Penjelasan Analisis Deret Waktu
 Bagian ini terdiri dari penjelasan terkait definisi data deret waktu, contoh data, kegunaan analisis deret waktu
