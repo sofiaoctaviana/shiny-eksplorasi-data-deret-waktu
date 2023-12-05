@@ -23,3 +23,5 @@ Menampilkan pola data deret waktu yang terdiri dari:
 - Random
 
 Disertai dengan contoh data empiris yang terdapat di dunia nyata
+
+(test edit)
